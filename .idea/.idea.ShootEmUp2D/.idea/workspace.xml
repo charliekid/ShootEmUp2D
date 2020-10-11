@@ -15,8 +15,9 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/TestRayCast.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BaseHealth.cs" />
       </list>
     </option>
   </component>
@@ -59,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602036146154</updated>
-      <workItem from="1602036180894" duration="4162000" />
+      <workItem from="1602036180894" duration="9363000" />
     </task>
     <servers />
   </component>
